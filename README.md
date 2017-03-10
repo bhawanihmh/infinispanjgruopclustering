@@ -1,5 +1,5 @@
-# infinispanjgruopclustering
-infinispan clustering using jgroup.
+# Infinispan clustering using jgroup
+
 
 For this tutorial you will need the following:
 
